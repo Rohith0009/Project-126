@@ -2,8 +2,12 @@ body {
   background: paleturquoise;
 }
 
-canvas{
-    border-radius: 10px;
-    border: 1px solid black;
-    background-color: antiquewhite;
+canvas {
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: antiquewhite;
+}
+
+#song_name {
+  margin-right: 400px;
 }
